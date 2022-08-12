@@ -2,18 +2,14 @@
 
 <h1><p align="center">Hello, I'm Mithat! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></p>
 
-I'm studying Computer Engineering and Management Information
-System. Also, I am a backend developer at Privia Security which is
-developing a backend application with Ruby on Rails. I love this
-industry, Software is a passion for me. Likewise, I have been trying to
-learn all technologies and software languages, and trying to
-implement them in the best way. I am usually coding with Ruby, C#
-and Kotlin, I am using TypeScript Angular as frontend and Asp.Net
-core and Ruby on Rails as a backend. In other words, I am not a
-fanatic of any programming languages or technologies. I really like
-to learn everything about software. In this way, I am improving my
-process management and algorithm skills everyday. I am interested
-in Football, Neuroscience, and Psychology.
+I am a 3rd year Computer Engineering student at Turkish-German University. I am a Backend Developer. I have been using PHP for 3 years.
+
+I have been using Unity as an amateur for around 5 years. I organized a game development team in Informatix Club at Turkish-German University. I gave a 16 Hour long Unity course for the game development team and after that we made a little demo within two weeks. 
+Check it out: https://infx.itch.io/bernstein
+
+I also gave a introduction to Kotlin course in both Google Developer Students Club at Boğaziçi University and Informatix Club at Turkish-German University.
+You can watch it here:https://youtu.be/aSnpgRpy9IE
+Github Repo:https://github.com/mitokande/kotlin-rastgele-film-onerme
 
 
 <h3 align="center">Contact with me:</h3>
