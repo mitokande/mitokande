@@ -15,10 +15,10 @@ Github Repo:https://github.com/mitokande/kotlin-rastgele-film-onerme
 <h3 align="center">Contact with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berat-yesbek-89b6821b0/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beratybk/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BeratYesbekk)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.beratyesbek@gmail.com)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithat-can-turan/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mithat.kandemir/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mith_ck)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.benmithat18@gmail.com)
   
 </div>
 
@@ -33,17 +33,17 @@ Github Repo:https://github.com/mitokande/kotlin-rastgele-film-onerme
   <a href="" target="_blank"> 
      <img alt="C#" src="https://img.shields.io/badge/csharp%20-%23F7DF1E.svg?logo=csharp&logoColor=white&color=5cb85c">
    </a>
+    &emsp;
+  <a href="">
+    <img alt="PHP" src="https://img.shields.io/badge/php-%23F7DF1E.svg?logo=php&logoColor=white&color=d9534f"/>
+  </a>
+    &emsp;
+  <a href="">
+    <img alt="JAVA" src="https://img.shields.io/badge/java-%23F7DF1E.svg?logo=java&logoColor=white&color=5bc0de"/>
+  </a>
   &emsp;
   <a href="">
-    <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%23F7DF1E.svg?logo=kotlin&logoColor=white&color=purple"/>
-  </a>
-    &emsp;
-  <a href="">
-    <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23F7DF1E.svg?logo=ruby&logoColor=white&color=d9534f"/>
-  </a>
-    &emsp;
-  <a href="">
-    <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23F7DF1E.svg?logo=typescript&logoColor=white&color=5bc0de"/>
+    <img alt="C" src="https://img.shields.io/badge/c-%23F7DF1E.svg?logo=c&logoColor=white&color=purple"/>
   </a>
       &emsp;
 </p>
