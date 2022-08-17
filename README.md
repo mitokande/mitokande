@@ -50,11 +50,10 @@ Github Repo:https://github.com/mitokande/kotlin-rastgele-film-onerme
 
 ### 👉  Frameworks Tools & Technologies..
 <p align="left">
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
    <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
-   <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLFrYJ0folWCogovpUI2Dejxjuoqm7meJHAXrjU18&s"></code>
 
 </p>
 
@@ -63,7 +62,7 @@ Github Repo:https://github.com/mitokande/kotlin-rastgele-film-onerme
   &emsp;
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
   &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/postgresql%20-%23F7DF1E.svg?logo=postgresql&logoColor=white&color=5bc0de"></a>
+    <a href="https://www.phpmyadmin.net/"><img alt="PhpMyAdmin" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></a>
   &emsp;
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=black&color=yellow"></a>
     &emsp;
