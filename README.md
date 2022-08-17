@@ -62,7 +62,7 @@ Github Repo:https://github.com/mitokande/kotlin-rastgele-film-onerme
   &emsp;
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
   &emsp;
-    <a href="https://www.phpmyadmin.net/"><img alt="PhpMyAdmin" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></a>
+    <a href="https://www.mysql.com/"><img alt="MySql" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
   &emsp;
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=black&color=yellow"></a>
     &emsp;
