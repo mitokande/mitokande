@@ -51,7 +51,7 @@ Github Repo:https://github.com/mitokande/kotlin-rastgele-film-onerme
 ### 👉  Frameworks Tools & Technologies..
 <p align="left">
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
    <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
 
