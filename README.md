@@ -70,7 +70,7 @@ Github Repo:https://github.com/mitokande/kotlin-rastgele-film-onerme
 
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BeratYesbek&theme=algolia" alt="BeratYesbek"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mitokande&theme=algolia" alt="Mithat Can Turan"  /></p>
 
 <hr>
 <p align="center">
