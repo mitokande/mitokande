@@ -2,7 +2,7 @@
 
 <h1><p align="center">Hello, I'm Mithat! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></p>
 
-I am a 3rd year Computer Engineering student at Turkish-German University. I am a Backend Developer. I have been using PHP for 3 years.
+I am a 4rd year Computer Engineering student at Turkish-German University. I am a Backend Developer. I have been using PHP for 3 years.
 
 I have been using Unity as an amateur for around 5 years. I organized a game development team in Informatix Club at Turkish-German University. I gave a 16 Hour long Unity course for the game development team and after that we made a little demo within two weeks. 
 Check it out: https://infx.itch.io/bernstein
