@@ -2,14 +2,9 @@
 
 <h1><p align="center">Hello, I'm Mithat! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></p>
 
-I am a 4rd year Computer Engineering student at Turkish-German University. I am a Backend Developer. I have been using PHP for 3 years.
-
-I have been using Unity as an amateur for around 5 years. I organized a game development team in Informatix Club at Turkish-German University. I gave a 16 Hour long Unity course for the game development team and after that we made a little demo within two weeks. 
-Check it out: https://infx.itch.io/bernstein
-
-I also gave a introduction to Kotlin course in both Google Developer Students Club at Boğaziçi University and Informatix Club at Turkish-German University.
-You can watch it here:https://youtu.be/aSnpgRpy9IE
-Github Repo:https://github.com/mitokande/kotlin-rastgele-film-onerme
+I  am a 4th year Computer Engineering student at Turkish German University. I am experienced in Python, Php (Flask and Laravel frameworks), and C# (Unity). I have gained experince with working in Jotform nearly for a
+year and since starting university I have been doing various contract works. I am someone with a passion for learning and teaching others. I actively take part in the Computer Club at the University sharing my knowledge
+with my fellow students
 
 
 <h3 align="center">Contact with me:</h3>
