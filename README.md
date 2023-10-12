@@ -1,5 +1,3 @@
-
-
 <h1><p align="center">Hello, I'm Mithat! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></p>
 
 I  am a 4th year Computer Engineering student at Turkish German University. I am experienced in Python, Php (Flask and Laravel frameworks), and C# (Unity). I have gained experince with working in Jotform nearly for a
@@ -16,66 +14,3 @@ with my fellow students
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info.benmithat18@gmail.com)
   
 </div>
-
-
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-<p align="left"> 
-  &emsp;
-  <a href="" target="_blank"> 
-     <img alt="C#" src="https://img.shields.io/badge/csharp%20-%23F7DF1E.svg?logo=csharp&logoColor=white&color=5cb85c">
-   </a>
-    &emsp;
-  <a href="">
-    <img alt="PHP" src="https://img.shields.io/badge/php-%23F7DF1E.svg?logo=php&logoColor=white&color=d9534f"/>
-  </a>
-    &emsp;
-  <a href="">
-    <img alt="JAVA" src="https://img.shields.io/badge/java-%23F7DF1E.svg?logo=java&logoColor=white&color=5bc0de"/>
-  </a>
-  &emsp;
-  <a href="">
-    <img alt="C" src="https://img.shields.io/badge/c-%23F7DF1E.svg?logo=c&logoColor=white&color=purple"/>
-  </a>
-      &emsp;
-</p>
-
-### 👉  Frameworks Tools & Technologies..
-<p align="left">
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
-   <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
-
-</p>
-
-### 👉 Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySql" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
-  &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=black&color=yellow"></a>
-    &emsp;
- </p>
-
-
-### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mitokande&theme=algolia" alt="Mithat Can Turan"  /></p>
-
-<hr>
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitokande&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=python,html,css" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mitokande&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
-<hr>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=mitokande&label=Profile%20Views&color=1&icon=0&pretty=true" />
-</a>
