@@ -1,8 +1,6 @@
 <h1><p align="center">Hello, I'm Mithat! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></p>
 
-I  am a 4th year Computer Engineering student at Turkish German University. I am experienced in Python, Php (Flask and Laravel frameworks), and C# (Unity). I have gained experince with working in Jotform nearly for a
-year and since starting university I have been doing various contract works. I am someone with a passion for learning and teaching others. I actively take part in the Computer Club at the University sharing my knowledge
-with my fellow students
+I'm currently a 4th-grade Computer Engineering student enrolled at Turkish German University. With a passion for learning new things, I have been doing software development jobs for three years. I have been working at Jotform for a year and have taken on multiple contract roles since starting university. My expertise includes Java, Python, and PHP, in frameworks such as Spring Boot, Flask, and Laravel. I'm always looking to expand my knowledge and eagerly share it with others. Moreover, I also have experience teaching people
 
 
 <h3 align="center">Contact with me:</h3>
