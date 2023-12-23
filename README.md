@@ -2,7 +2,7 @@
 
 I'm currently a 4th-grade Computer Engineering student enrolled at Turkish German University. With a passion for learning new things, I have been doing software development jobs for three years. I have been working at Jotform for a year and have taken on multiple contract roles since starting university. My expertise includes Java, Python, and PHP, in frameworks such as Spring Boot, Flask, and Laravel. I'm always looking to expand my knowledge and eagerly share it with others. Moreover, I also have experience teaching people
 
-My personal website is [mithatck.com](https://[mithatck.com)
+My personal website is [mithatck.com](https://mithatck.com)
 
 <h3 align="center">Contact with me:</h3>
 <div align="center">
