@@ -1,8 +1,7 @@
 <h1><p align="center">Hello, I'm Mithat! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></p>
 
-I'm currently a 4th-grade Computer Engineering student enrolled at Turkish German University. With a passion for learning new things, I have been doing software development jobs for three years. I have been working at Jotform for a year and have taken on multiple contract roles since starting university. My expertise includes Java, Python, and PHP, in frameworks such as Spring Boot, Flask, and Laravel. I'm always looking to expand my knowledge and eagerly share it with others. Moreover, I also have experience teaching people
+I'm a backend developer with a passion for learning new things, I have been doing software development jobs for three years. I have been working at Jotform nearly two years and have taken on multiple contract roles around the world. My expertise includes Java, Python, and PHP, in frameworks such as Spring Boot, Flask, and Laravel. I'm always looking to expand my knowledge and eagerly share it with others.
 
-My personal website is [mithatck.com](https://mithatck.com)
 
 <h3 align="center">Contact with me:</h3>
 <div align="center">
